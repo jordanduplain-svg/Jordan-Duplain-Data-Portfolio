@@ -1,0 +1,111 @@
+﻿Sexe;Mode_entree_note;Mode_entree;Age_debut_symptomes;Symptomes_prodromaux;TCSP_prodr;Syndrome_extrapyramidal;Delai_syndrome_extrapyramidal;Symptomes_cognitifs;Presence_diag_cognitif;Date_symptomes_cognitifs;Symptomes_psychiatriques;Delai_symptomes_psychiatriques;Trouble_oculomoteur;Symptomes_moteurs;Idees_delirantes;Delai_fluctuations
+1;Troubles mnésiques, désorientation;1.0;78.0;0;0;1;0,5;1;1;0;1.0;0,5;0;1;0;0
+2;Cognitif (2010) : troubles mnésiques;1.0;63.0;1;1;0;;1;1;0;1.0;6;2;0;;7
+2;Cognitif (2013) : troubles dyséxécutifs;1.0;58.0;;1;1;4;1;1;0;1.0;3;2;;;3
+2;Cognitif (2012) : troubles du langage et de la mémoire;1.0;52.0;1;1;1;0;1;1;0;1.0;2;2;1;;1
+1;Psychiatrique (2016) : troubles du comportement, délire;2.0;71.0;;;0;;1;1;1;1.0;0;2;0;1;
+2;Troubles mnésiques;1.0;67.0;0;0;1;4;1;1;0;1.0;6;0;1;1;6
+2;Troubles mnésiques;1.0;66.0;1;1;1;4;1;1;0;1.0;4;0;1;0;8
+2;Cognitif (2012) : troubles mnésiques;1.0;66.0;0;0;1;6;1;1;0;1.0;1;2;1;0;5
+1;Plainte mnésique;1.0;68.0;;;0;;1;1;0;1.0;3;0;0;;
+1;Manque du mot;1.0;68.0;0;0;1;0,5;1;1;0;0.0;;0;1;;
+2;Cognitif (2014) : plainte mnésique;1.0;74.0;0;0;1;4;1;1;0;0.0;;0;1;;4
+2;Cognitif (2014) : troubles dyséxécutifs / mnésiques;1.0;66.0;;1;1;3;1;1;0;1.0;3;2;1;;0
+1;Cognitif (mnésique) et psyhiatrique (hallucinations et idées délirantes);4.0;70.0;;;;;;1;;;;0;;;
+1;Cognitif : plainte mnésique;1.0;72.0;0;0;1;4;1;1;0;0.0;;0;1;;
+1;Cognitif (2018);1.0;75.0;1;1;1;2;1;1;0;1.0;2;0;1;1;
+2;Troubles dyséxécutifs;1.0;59.0;1;1;1;9;1;1;0;1.0;10;0;1;0;10
+2;Troubles mnésiques;1.0;65.0;1;1;1;1,5;1;1;0;1.0;6;0;1;0;3
+1;Episode dépressif caractérisé, IMV;2.0;75.0;0;0;0;;1;1;0,5;1.0;0;0;0;1;0
+1;Psychiatriques (2016) : syndrome dépressif;2.0;67.0;;;0;;1;0;2;1.0;0;;0;;2
+1;Cognitif (2018);1.0;67.0;1;1;1;1;1;1;0;0.0;;0;1;0;1
+1;Trouble cognitif;1.0;64.0;1;1;0;;1;1;0;1.0;0,5;0;0;0;1
+2;Moteur : tremblement hémicorporel;3.0;65.0;;;1;0;;1;2;1.0;1;2;1;;2
+2;Troubles mnésiques;1.0;53.0;1;1;1;5;1;1;0;1.0;1;0;1;0;4
+1;Cognitif (2015) : plainte mnésique;1.0;78.0;1;1;0;0;1;1;0;1.0;4;;0;0;4
+2;Cogniitif (2016) : troubles du langage;1.0;72.0;;agitation, somniloquie;0;;1;1;0;1.0;4;;;;4
+1;Cognitif (2008) : troubles dyséxécutifs;1.0;49.0;1;1;0;;1;1;0;1.0;12;;0;1;12
+2;Cognitif (2017) : plainte mnésique ;1.0;66.0;;0;1 (+3);;1;1;0;1.0;0,5;;;1;3
+1;Psychiatrique (2018) :  phénomènes psychotiques mineurs (dédoublement);2.0;67.0;;1;1 (+2);;1;1;0;1.0;0;;;1;1
+2;Cognitif (2017) : plainte mnésique et langagière;1.0;66.0;;1;1 (+2);;1;1;0;1.0;2;;;;2
+2;Moteur (2018) : chutes et troubles moteurs;3.0;72.0;;1;1;0;1;1;0;1.0;1;;1;;2
+1;Plainte cognitive;1.0;68.0;0;0;1;1;1;1;0;1.0;1;;1;;
+2;Cognitif : troubles mnésiques;1.0;62.0;0;0;1;;1;1;0;1.0;11;0;1;1;8
+2;Plainte cognitive;1.0;;0;0;1;;1;1;0;1.0;;0;1;0;
+1;Psychiatrique (2014) : hallucinations visuelles;2.0;61.0;0;0;0;;1;1;0;1.0;0;0;0;;0
+2;Syndrome dépressif tardif;2.0;59.0;1;1;1;19;1;1;16;1.0;0;0;1;0;18
+2;Troubles mnésiques;1.0;49.0;1;1;1;15;1;1;0;1.0;15;0;1;0;15
+2;Psychiatrique (2016) : syndrome dépressif;2.0;64.0;1;1;1;3;0;0;;1.0;3;;1;0;
+2;Cognitif : plainte mnésique;1.0;73.0;;;;;;1;;;;;;;
+2;Cognitif : plainte mnésique;1.0;53.0;1;1;1;8;1;1;0;1.0;13;0;1;0;
+2;Cognitif : plainte mnésique et attentionnelle;1.0;68.0;1;0;1;2;1;1;0;;;1;1;1;
+2;Moteur : TCSP;3.0;72.0;1;1;1;0;1;1;0;1.0;4;2;1;0;2
+1;Plainte cognitive;1.0;78.0;0;;1;6;1;1;0;1.0;7;;1;1;7
+1;Cognitif (2019);1.0;73.0;1;1;1;3;1;1;0;1.0;1;;1;;
+1;Cognitif : plainte mnésique;1.0;72.0;0;0;1;0;1;1;0;0.0;;0;1;0;
+1;Cognitif : plainte mnésique;;77.0;;;;;1;1;0;1.0;3;;;1;3
+2;Cognitif : plainte mnésique;1.0;72.0;0;0;1;6;1;1;0;1.0;7;0;1;1;
+2;Cognitif (2016) : syndrome confusionnel;1.0;74.0;;1;1;4;1;1;1;1.0;4;;1;0;0
+1;Plainte cognitive;1.0;65.0;;1;;;;1;;;;;;;
+1;Cognitif : troubles mnésiques;1.0;76.0;;0;;;;1;;;;;;;
+2;Cognitif : troubles mnésiques;1.0;64.0;1;1;;;1;1;0;0.0;;;0;;
+2;Cognitif (plainte mnésique);1.0;69.0;1;1;1;2;1;1;0;1.0;1;2;1;1;
+1;Cognitif (troubles du langage) et psychiatriques (hallucinations visuelles);4.0;79.0;1;1;0;;1;1;0;1.0;5;2;1;1;4
+2;Cognitif : plainte mnésique;1.0;83.0;;;1;6;1;1;0;;;;1;;7
+2;Cognitif (2017);1.0;71.0;;;1;4;;1;0;0.0;;;1;;
+1;Cognitif : plainte mnésique;1.0;64.0;;;1;;1;1;;1.0;;;1;;
+2;Moteur : syndrome extrapyramidal;3.0;66.0;;;1;0;1;1;1;;;0;1;;
+2;Cognitif (2018) ;1.0;71.0;;0;1;2;1;1;0;0.0;;0;1;;2
+2;Cognitif (2021);1.0;74.0;;;1;0;1;1;0;1.0;;;1;1;
+1;Plainte cognitive et psychiatrique (hallucinations);4.0;82.0;1;1;1;0;1;1;0;1.0;0;1;1;;0
+2;Cognitif : troubles mnésiques;1.0;70.0;1;;;;1;1;0;1.0;;;1;1;0
+1;Cognitif : troubles mnésiques;1.0;70.0;1;1;;;1;1;0;1.0;2;;0;;1
+1;Cognitif ;;84.0;0;0;;;1;1;0;0.0;;;1;;3
+2;Cognitif : troubles mnésiques;1.0;68.0;;;1;5;1;1;0;0.0;;;1;;
+2;Plainte cognitive;1.0;;;;1;;1;1;;;;;1;;
+1;Plainte cognitive / mnésique;1.0;74.0;1;0;0;;1;1;0;1.0;5;0;0;1;3
+2;;;;;;;;;;;;;;;;
+1;Cognitif (troubles mnésiques) et psychiatriques (hallucinations visuelles);4.0;79.0;;;;;1;1;0;1.0;2;;;1;
+2;Cognitif : plainte mnésique ;1.0;72.0;;;;;;1;;;;;;;
+2;Cognitif : plainte mnésique ;1.0;79.0;0;0;1;2;1;1;0;1.0;2;0;1;0;1
+2;Psychiatrique;2.0;68.0;1;1;1;2;1;1;1;1.0;0;0;1;1;2
+2;Moteur : tremblement et troubles marche;3.0;64.0;;;;;;1;;;;;;;
+1;Cognitif : plainte mnésique;1.0;69.0;;;1;5;1;1;0;1.0;1;;1;1;
+2;Plainte cognitive (mnésique et attentionnelle);1.0;62.0;;0;0;;1;1;0;0.0;;0;0;;
+1;Cognitif (plainte mnésique);1.0;66.0;;0;0;;1;1;0;1.0;3;0;0;0;
+2;Cognitif (plainte mnésique);1.0;77.0;;;1;2;1;1;0;1.0;2;;1;;3
+2;Plainte cognitive / mnésique;1.0;63.0;;;1;2;1;1;0;1.0;4;1;1;1;4
+2;Cognitif (plainte mnésique);1.0;79.0;0;0;1;3;1;1;0;1.0;4;1;1;;0
+2;Cognitif (plainte mnésique);1.0;72.0;1;1;1;4;1;1;0;1.0;3;0;1;;3
+2;Plainte cognitive;1.0;78.0;;;1;2;1;1;0;1.0;1;;1;;0
+2;Plainte cognitive;1.0;72.0;1;1;;;1;1;0;;;0;0;;
+1;;;73.0;;;;;;;;;;;;;
+1;Cognitif : plainte mnésique ;1.0;70.0;0;0;1;2;1;1;0;1.0;4;0;1;1;3
+2;Cognitif (troubles mnésiques) et psychiatriques (délire persécution);4.0;71.0;0;0;1;4;1;1;0;1.0;0;0;1;1;
+2;;;79.0;;;;;;;;;;;;;
+2;Plainte cognitive;1.0;76.0;;;1;7;1;1;0;0.0;;;1;;
+2;Cognitif (plainte mnésique);1.0;76.0;;;1;1;1;1;0;1.0;1;2;1;;
+2;Cogntif (plainte langagière);1.0;67.0;1;1;;;1;1;0;0.0;;;0;;
+2;Plainte cognitive et motrice;4.0;60.0;;;1;0;1;1;3;0.0;;1;1;;5
+2;Cognitif (plainte mnésique);1.0;63.0;1;1;1;;;1;0;;2;1;1;;
+2;Cognitif (plainte mnésique et langagière);1.0;74.0;;;1;3;1;1;0;;5;;1;;3
+1;Cognitif (plainte mnésique);1.0;71.0;;;;;1;1;0;1.0;7;0;1;1;
+2;Cognitif (plainte mnésique);1.0;75.0;1;1;1;7;1;1;0;;5;;1;;
+2;Cognitif (troubles mnésiques) et psychiatriques (hallucinations visuelles);4.0;67.0;1;1;0;;1;1;0;1.0;1;0;1;1;
+2;Cognitif et troubles de la marche;4.0;82.0;;0;1;0;1;1;0;0.0;;2;1;;4
+1;;;85.0;;;;;;;;;;;;;
+1;Cognitif : plainte mnésique ;1.0;79.0;;;1;;;1;;;;;1;;
+2;Cognitif : plainte mnésique ;1.0;73.0;;;;;;1;;;;;;;
+2;;;73.0;;;;;;;;;;;;;
+2;Cognitif : plainte mnésique ;1.0;77.0;1;1;1;2;1;1;0;1.0;2;0;1;0;2
+1;Cognitif : plainte mnésique;1.0;55.0;;;;;1;1;0;;;;;;
+2;Cognitif : plainte d'orientation spatiale;1.0;77.0;1;;1;4;1;1;0;0.0;;0;1;;
+2;Moteur : syndrome extrapyramidal;3.0;61.0;;;;;;1;;;;;;;
+1;;1.0;73.0;;;;;;1;;;;;;;
+1;Moteur : tremblement de repos;3.0;63.0;1;1;1;0;1;1;4;1.0;6;2;1;1;4
+2;Plainte cognitive;1.0;81.0;1;1;1;3;1;1;0;0.0;;;1;;
+2;Plainte cognitive;1.0;76.0;;;1;;1;1;0;1.0;;;1;1;
+2;Plainte cognitive;1.0;48.0;;;;;0;0;;;;;;;
+2;Plainte cognitive;1.0;52.0;;;1;3;1;1;0;1.0;;;1;1;3
+2;;;;;;;;;;;;;;;;
+2;;;;;;;;;;;;;;;;

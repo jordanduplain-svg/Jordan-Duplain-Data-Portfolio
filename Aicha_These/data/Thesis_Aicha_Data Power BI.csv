@@ -1,0 +1,111 @@
+,Sexe,Mode_entree_note,Mode_entree,Age_debut_symptomes,Symptomes_prodromaux,TCSP_prodr,Syndrome_extrapyramidal,Delai_syndrome_extrapyramidal,Symptomes_cognitifs,Date_symptomes_cognitifs,Symptomes_psychiatriques,Delai_symptomes_psychiatriques,Trouble_oculomoteur,Symptomes_moteurs,Idees_delirantes,Delai_fluctuations,Nom Mode_entree,Tranche_age
+0,Feminin,"Troubles mnésiques, désorientation",Trouble Cognitfs,78.0,Non,Non,Oui,0.5,1.0,0,Oui,"0,5",Non,Oui,Non,0.0,Trouble Cognitfs,77-100
+1,Masculin,Cognitif (2010) : troubles mnésiques,Trouble Cognitfs,63.0,Oui,Oui,Non,,1.0,0,Oui,6,NSP,Non,,7.0,Trouble Cognitfs,0-65
+2,Masculin,Cognitif (2013) : troubles dyséxécutifs,Trouble Cognitfs,58.0,,Oui,Oui,4,1.0,0,Oui,3,NSP,,,3.0,Trouble Cognitfs,0-65
+3,Masculin,Cognitif (2012) : troubles du langage et de la mémoire,Trouble Cognitfs,52.0,Oui,Oui,Oui,0,1.0,0,Oui,2,NSP,Oui,,1.0,Trouble Cognitfs,0-65
+4,Feminin,"Psychiatrique (2016) : troubles du comportement, délire",Trouble Psychatrique,71.0,,,Non,,1.0,1,Oui,0,NSP,Non,Oui,,Trouble Psychatrique,66-75
+5,Masculin,Troubles mnésiques,Trouble Cognitfs,67.0,Non,Non,Oui,4,1.0,0,Oui,6,Non,Oui,Oui,6.0,Trouble Cognitfs,66-75
+6,Masculin,Troubles mnésiques,Trouble Cognitfs,66.0,Oui,Oui,Oui,4,1.0,0,Oui,4,Non,Oui,Non,8.0,Trouble Cognitfs,66-75
+7,Masculin,Cognitif (2012) : troubles mnésiques,Trouble Cognitfs,66.0,Non,Non,Oui,6,1.0,0,Oui,1,NSP,Oui,Non,5.0,Trouble Cognitfs,66-75
+8,Feminin,Plainte mnésique,Trouble Cognitfs,68.0,,,Non,,1.0,0,Oui,3,Non,Non,,,Trouble Cognitfs,66-75
+9,Feminin,Manque du mot,Trouble Cognitfs,68.0,Non,Non,Oui,0.5,1.0,0,Non,,Non,Oui,,,Trouble Cognitfs,66-75
+10,Masculin,Cognitif (2014) : plainte mnésique,Trouble Cognitfs,74.0,Non,Non,Oui,4,1.0,0,Non,,Non,Oui,,4.0,Trouble Cognitfs,66-75
+11,Masculin,Cognitif (2014) : troubles dyséxécutifs / mnésiques,Trouble Cognitfs,66.0,,Oui,Oui,3,1.0,0,Oui,3,NSP,Oui,,0.0,Trouble Cognitfs,66-75
+12,Feminin,Cognitif (mnésique) et psyhiatrique (hallucinations et idées délirantes),Trouble Psycharique et Cognitifs,70.0,,,,,,,,,Non,,,,Trouble Psycharique et Cognitifs,66-75
+13,Feminin,Cognitif : plainte mnésique,Trouble Cognitfs,72.0,Non,Non,Oui,4,1.0,0,Non,,Non,Oui,,,Trouble Cognitfs,66-75
+14,Feminin,Cognitif (2018),Trouble Cognitfs,75.0,Oui,Oui,Oui,2,1.0,0,Oui,2,Non,Oui,Oui,,Trouble Cognitfs,66-75
+15,Masculin,Troubles dyséxécutifs,Trouble Cognitfs,59.0,Oui,Oui,Oui,9,1.0,0,Oui,10,Non,Oui,Non,10.0,Trouble Cognitfs,0-65
+16,Masculin,Troubles mnésiques,Trouble Cognitfs,65.0,Oui,Oui,Oui,"1,5",1.0,0,Oui,6,Non,Oui,Non,3.0,Trouble Cognitfs,0-65
+17,Feminin,"Episode dépressif caractérisé, IMV",Trouble Psychatrique,75.0,Non,Non,Non,,1.0,"0,5",Oui,0,Non,Non,Oui,0.0,Trouble Psychatrique,66-75
+18,Feminin,Psychiatriques (2016) : syndrome dépressif,Trouble Psychatrique,67.0,,,Non,,1.0,2,Oui,0,,Non,,2.0,Trouble Psychatrique,66-75
+19,Feminin,Cognitif (2018),Trouble Cognitfs,67.0,Oui,Oui,Oui,1,1.0,0,Non,,Non,Oui,Non,1.0,Trouble Cognitfs,66-75
+20,Feminin,Trouble cognitif,Trouble Cognitfs,64.0,Oui,Oui,Non,,1.0,0,Oui,"0,5",Non,Non,Non,1.0,Trouble Cognitfs,0-65
+21,Masculin,Moteur : tremblement hémicorporel,Trouble Moteur,65.0,,,Oui,0,,2,Oui,1,NSP,Oui,,2.0,Trouble Moteur,0-65
+22,Masculin,Troubles mnésiques,Trouble Cognitfs,53.0,Oui,Oui,Oui,5,1.0,0,Oui,1,Non,Oui,Non,4.0,Trouble Cognitfs,0-65
+23,Feminin,Cognitif (2015) : plainte mnésique,Trouble Cognitfs,78.0,Oui,Oui,Non,0,1.0,0,Oui,4,,Non,Non,4.0,Trouble Cognitfs,77-100
+24,Masculin,Cogniitif (2016) : troubles du langage,Trouble Cognitfs,72.0,,"agitation, somniloquie",Non,,1.0,0,Oui,4,,,,4.0,Trouble Cognitfs,66-75
+25,Feminin,Cognitif (2008) : troubles dyséxécutifs,Trouble Cognitfs,49.0,Oui,Oui,Non,,1.0,0,Oui,12,,Non,Oui,12.0,Trouble Cognitfs,0-65
+26,Masculin,Cognitif (2017) : plainte mnésique ,Trouble Cognitfs,66.0,,Non,1 (+3),,1.0,0,Oui,"0,5",,,Oui,3.0,Trouble Cognitfs,66-75
+27,Feminin,Psychiatrique (2018) :  phénomènes psychotiques mineurs (dédoublement),Trouble Psychatrique,67.0,,Oui,1 (+2),,1.0,0,Oui,0,,,Oui,1.0,Trouble Psychatrique,66-75
+28,Masculin,Cognitif (2017) : plainte mnésique et langagière,Trouble Cognitfs,66.0,,Oui,1 (+2),,1.0,0,Oui,2,,,,2.0,Trouble Cognitfs,66-75
+29,Masculin,Moteur (2018) : chutes et troubles moteurs,Trouble Moteur,72.0,,Oui,Oui,0,1.0,0,Oui,1,,Oui,,2.0,Trouble Moteur,66-75
+30,Feminin,Plainte cognitive,Trouble Cognitfs,68.0,Non,Non,Oui,1,1.0,0,Oui,1,,Oui,,,Trouble Cognitfs,66-75
+31,Masculin,Cognitif : troubles mnésiques,Trouble Cognitfs,62.0,Non,Non,Oui,,1.0,0,Oui,11,Non,Oui,Oui,8.0,Trouble Cognitfs,0-65
+32,Masculin,Plainte cognitive,Trouble Cognitfs,,Non,Non,Oui,,1.0,0,Oui,,Non,Oui,Non,,Trouble Cognitfs,
+33,Feminin,Psychiatrique (2014) : hallucinations visuelles,Trouble Psychatrique,61.0,Non,Non,Non,,1.0,0,Oui,0,Non,Non,,0.0,Trouble Psychatrique,0-65
+34,Masculin,Syndrome dépressif tardif,Trouble Psychatrique,59.0,Oui,Oui,Oui,19,1.0,16,Oui,0,Non,Oui,Non,18.0,Trouble Psychatrique,0-65
+35,Masculin,Troubles mnésiques,Trouble Cognitfs,49.0,Oui,Oui,Oui,15,1.0,0,Oui,15,Non,Oui,Non,15.0,Trouble Cognitfs,0-65
+36,Masculin,Psychiatrique (2016) : syndrome dépressif,Trouble Psychatrique,64.0,Oui,Oui,Oui,3,0.0,,Oui,3,,Oui,Non,,Trouble Psychatrique,0-65
+37,Masculin,Cognitif : plainte mnésique,Trouble Cognitfs,73.0,,,,,,,,,,,,,Trouble Cognitfs,66-75
+38,Masculin,Cognitif : plainte mnésique,Trouble Cognitfs,53.0,Oui,Oui,Oui,8,1.0,0,Oui,13,Non,Oui,Non,,Trouble Cognitfs,0-65
+39,Masculin,Cognitif : plainte mnésique et attentionnelle,Trouble Cognitfs,68.0,Oui,Non,Oui,2,1.0,0,,,Oui,Oui,Oui,,Trouble Cognitfs,66-75
+40,Masculin,Moteur : TCSP,Trouble Moteur,72.0,Oui,Oui,Oui,0,1.0,0,Oui,4,NSP,Oui,Non,2.0,Trouble Moteur,66-75
+41,Feminin,Plainte cognitive,Trouble Cognitfs,78.0,Non,,Oui,6,1.0,0,Oui,7,,Oui,Oui,7.0,Trouble Cognitfs,77-100
+42,Feminin,Cognitif (2019),Trouble Cognitfs,73.0,Oui,Oui,Oui,3,1.0,0,Oui,1,,Oui,,,Trouble Cognitfs,66-75
+43,Feminin,Cognitif : plainte mnésique,Trouble Cognitfs,72.0,Non,Non,Oui,0,1.0,0,Non,,Non,Oui,Non,,Trouble Cognitfs,66-75
+44,Feminin,Cognitif : plainte mnésique,,77.0,,,,,1.0,0,Oui,3,,,Oui,3.0,,77-100
+45,Masculin,Cognitif : plainte mnésique,Trouble Cognitfs,72.0,Non,Non,Oui,6,1.0,0,Oui,7,Non,Oui,Oui,,Trouble Cognitfs,66-75
+46,Masculin,Cognitif (2016) : syndrome confusionnel,Trouble Cognitfs,74.0,,Oui,Oui,4,1.0,1,Oui,4,,Oui,Non,0.0,Trouble Cognitfs,66-75
+47,Feminin,Plainte cognitive,Trouble Cognitfs,65.0,,Oui,,,,,,,,,,,Trouble Cognitfs,0-65
+48,Feminin,Cognitif : troubles mnésiques,Trouble Cognitfs,76.0,,Non,,,,,,,,,,,Trouble Cognitfs,77-100
+49,Masculin,Cognitif : troubles mnésiques,Trouble Cognitfs,64.0,Oui,Oui,,,1.0,0,Non,,,Non,,,Trouble Cognitfs,0-65
+50,Masculin,Cognitif (plainte mnésique),Trouble Cognitfs,69.0,Oui,Oui,Oui,2,1.0,0,Oui,1,NSP,Oui,Oui,,Trouble Cognitfs,66-75
+51,Feminin,Cognitif (troubles du langage) et psychiatriques (hallucinations visuelles),Trouble Psycharique et Cognitifs,79.0,Oui,Oui,Non,,1.0,0,Oui,5,NSP,Oui,Oui,4.0,Trouble Psycharique et Cognitifs,77-100
+52,Masculin,Cognitif : plainte mnésique,Trouble Cognitfs,83.0,,,Oui,6,1.0,0,,,,Oui,,7.0,Trouble Cognitfs,77-100
+53,Masculin,Cognitif (2017),Trouble Cognitfs,71.0,,,Oui,4,,0,Non,,,Oui,,,Trouble Cognitfs,66-75
+54,Feminin,Cognitif : plainte mnésique,Trouble Cognitfs,64.0,,,Oui,,1.0,,Oui,,,Oui,,,Trouble Cognitfs,0-65
+55,Masculin,Moteur : syndrome extrapyramidal,Trouble Moteur,66.0,,,Oui,0,1.0,1,,,Non,Oui,,,Trouble Moteur,66-75
+56,Masculin,Cognitif (2018) ,Trouble Cognitfs,71.0,,Non,Oui,2,1.0,0,Non,,Non,Oui,,2.0,Trouble Cognitfs,66-75
+57,Masculin,Cognitif (2021),Trouble Cognitfs,74.0,,,Oui,0,1.0,0,Oui,,,Oui,Oui,,Trouble Cognitfs,66-75
+58,Feminin,Plainte cognitive et psychiatrique (hallucinations),Trouble Psycharique et Cognitifs,82.0,Oui,Oui,Oui,0,1.0,0,Oui,0,Oui,Oui,,0.0,Trouble Psycharique et Cognitifs,77-100
+59,Masculin,Cognitif : troubles mnésiques,Trouble Cognitfs,70.0,Oui,,,,1.0,0,Oui,,,Oui,Oui,0.0,Trouble Cognitfs,66-75
+60,Feminin,Cognitif : troubles mnésiques,Trouble Cognitfs,70.0,Oui,Oui,,,1.0,0,Oui,2,,Non,,1.0,Trouble Cognitfs,66-75
+61,Feminin,Cognitif ,,84.0,Non,Non,,,1.0,0,Non,,,Oui,,3.0,,77-100
+62,Masculin,Cognitif : troubles mnésiques,Trouble Cognitfs,68.0,,,Oui,5,1.0,0,Non,,,Oui,,,Trouble Cognitfs,66-75
+63,Masculin,Plainte cognitive,Trouble Cognitfs,,,,Oui,,1.0,,,,,Oui,,,Trouble Cognitfs,
+64,Feminin,Plainte cognitive / mnésique,Trouble Cognitfs,74.0,Oui,Non,Non,,1.0,0,Oui,5,Non,Non,Oui,3.0,Trouble Cognitfs,66-75
+65,Masculin,,,,,,,,,,,,,,,,,
+66,Feminin,Cognitif (troubles mnésiques) et psychiatriques (hallucinations visuelles),Trouble Psycharique et Cognitifs,79.0,,,,,1.0,0,Oui,2,,,Oui,,Trouble Psycharique et Cognitifs,77-100
+67,Masculin,Cognitif : plainte mnésique ,Trouble Cognitfs,72.0,,,,,,,,,,,,,Trouble Cognitfs,66-75
+68,Masculin,Cognitif : plainte mnésique ,Trouble Cognitfs,79.0,Non,Non,Oui,2,1.0,0,Oui,2,Non,Oui,Non,1.0,Trouble Cognitfs,77-100
+69,Masculin,Psychiatrique,Trouble Psychatrique,68.0,Oui,Oui,Oui,2,1.0,1,Oui,0,Non,Oui,Oui,2.0,Trouble Psychatrique,66-75
+70,Masculin,Moteur : tremblement et troubles marche,Trouble Moteur,64.0,,,,,,,,,,,,,Trouble Moteur,0-65
+71,Feminin,Cognitif : plainte mnésique,Trouble Cognitfs,69.0,,,Oui,5,1.0,0,Oui,1,,Oui,Oui,,Trouble Cognitfs,66-75
+72,Masculin,Plainte cognitive (mnésique et attentionnelle),Trouble Cognitfs,62.0,,Non,Non,,1.0,0,Non,,Non,Non,,,Trouble Cognitfs,0-65
+73,Feminin,Cognitif (plainte mnésique),Trouble Cognitfs,66.0,,Non,Non,,1.0,0,Oui,3,Non,Non,Non,,Trouble Cognitfs,66-75
+74,Masculin,Cognitif (plainte mnésique),Trouble Cognitfs,77.0,,,Oui,2,1.0,0,Oui,2,,Oui,,3.0,Trouble Cognitfs,77-100
+75,Masculin,Plainte cognitive / mnésique,Trouble Cognitfs,63.0,,,Oui,2,1.0,0,Oui,4,Oui,Oui,Oui,4.0,Trouble Cognitfs,0-65
+76,Masculin,Cognitif (plainte mnésique),Trouble Cognitfs,79.0,Non,Non,Oui,3,1.0,0,Oui,4,Oui,Oui,,0.0,Trouble Cognitfs,77-100
+77,Masculin,Cognitif (plainte mnésique),Trouble Cognitfs,72.0,Oui,Oui,Oui,4,1.0,0,Oui,3,Non,Oui,,3.0,Trouble Cognitfs,66-75
+78,Masculin,Plainte cognitive,Trouble Cognitfs,78.0,,,Oui,2,1.0,0,Oui,1,,Oui,,0.0,Trouble Cognitfs,77-100
+79,Masculin,Plainte cognitive,Trouble Cognitfs,72.0,Oui,Oui,,,1.0,0,,,Non,Non,,,Trouble Cognitfs,66-75
+80,Feminin,,,73.0,,,,,,,,,,,,,,66-75
+81,Feminin,Cognitif : plainte mnésique ,Trouble Cognitfs,70.0,Non,Non,Oui,2,1.0,0,Oui,4,Non,Oui,Oui,3.0,Trouble Cognitfs,66-75
+82,Masculin,Cognitif (troubles mnésiques) et psychiatriques (délire persécution),Trouble Psycharique et Cognitifs,71.0,Non,Non,Oui,4,1.0,0,Oui,0,Non,Oui,Oui,,Trouble Psycharique et Cognitifs,66-75
+83,Masculin,,,79.0,,,,,,,,,,,,,,77-100
+84,Masculin,Plainte cognitive,Trouble Cognitfs,76.0,,,Oui,7,1.0,0,Non,,,Oui,,,Trouble Cognitfs,77-100
+85,Masculin,Cognitif (plainte mnésique),Trouble Cognitfs,76.0,,,Oui,1,1.0,0,Oui,1,NSP,Oui,,,Trouble Cognitfs,77-100
+86,Masculin,Cogntif (plainte langagière),Trouble Cognitfs,67.0,Oui,Oui,,,1.0,0,Non,,,Non,,,Trouble Cognitfs,66-75
+87,Masculin,Plainte cognitive et motrice,Trouble Psycharique et Cognitifs,60.0,,,Oui,0,1.0,3,Non,,Oui,Oui,,5.0,Trouble Psycharique et Cognitifs,0-65
+88,Masculin,Cognitif (plainte mnésique),Trouble Cognitfs,63.0,Oui,Oui,Oui,,,0,,2,Oui,Oui,,,Trouble Cognitfs,0-65
+89,Masculin,Cognitif (plainte mnésique et langagière),Trouble Cognitfs,74.0,,,Oui,3,1.0,0,,5,,Oui,,3.0,Trouble Cognitfs,66-75
+90,Feminin,Cognitif (plainte mnésique),Trouble Cognitfs,71.0,,,,,1.0,0,Oui,7,Non,Oui,Oui,,Trouble Cognitfs,66-75
+91,Masculin,Cognitif (plainte mnésique),Trouble Cognitfs,75.0,Oui,Oui,Oui,7,1.0,0,,5,,Oui,,,Trouble Cognitfs,66-75
+92,Masculin,Cognitif (troubles mnésiques) et psychiatriques (hallucinations visuelles),Trouble Psycharique et Cognitifs,67.0,Oui,Oui,Non,,1.0,0,Oui,1,Non,Oui,Oui,,Trouble Psycharique et Cognitifs,66-75
+93,Masculin,Cognitif et troubles de la marche,Trouble Psycharique et Cognitifs,82.0,,Non,Oui,0,1.0,0,Non,,NSP,Oui,,4.0,Trouble Psycharique et Cognitifs,77-100
+94,Feminin,,,85.0,,,,,,,,,,,,,,77-100
+95,Feminin,Cognitif : plainte mnésique ,Trouble Cognitfs,79.0,,,Oui,,,,,,,Oui,,,Trouble Cognitfs,77-100
+96,Masculin,Cognitif : plainte mnésique ,Trouble Cognitfs,73.0,,,,,,,,,,,,,Trouble Cognitfs,66-75
+97,Masculin,,,73.0,,,,,,,,,,,,,,66-75
+98,Masculin,Cognitif : plainte mnésique ,Trouble Cognitfs,77.0,Oui,Oui,Oui,2,1.0,0,Oui,2,Non,Oui,Non,2.0,Trouble Cognitfs,77-100
+99,Feminin,Cognitif : plainte mnésique,Trouble Cognitfs,55.0,,,,,1.0,0,,,,,,,Trouble Cognitfs,0-65
+100,Masculin,Cognitif : plainte d'orientation spatiale,Trouble Cognitfs,77.0,Oui,,Oui,4,1.0,0,Non,,Non,Oui,,,Trouble Cognitfs,77-100
+101,Masculin,Moteur : syndrome extrapyramidal,Trouble Moteur,61.0,,,,,,,,,,,,,Trouble Moteur,0-65
+102,Feminin,,Trouble Cognitfs,73.0,,,,,,,,,,,,,Trouble Cognitfs,66-75
+103,Feminin,Moteur : tremblement de repos,Trouble Moteur,63.0,Oui,Oui,Oui,0,1.0,4,Oui,6,NSP,Oui,Oui,4.0,Trouble Moteur,0-65
+104,Masculin,Plainte cognitive,Trouble Cognitfs,81.0,Oui,Oui,Oui,3,1.0,0,Non,,,Oui,,,Trouble Cognitfs,77-100
+105,Masculin,Plainte cognitive,Trouble Cognitfs,76.0,,,Oui,,1.0,0,Oui,,,Oui,Oui,,Trouble Cognitfs,77-100
+106,Masculin,Plainte cognitive,Trouble Cognitfs,48.0,,,,,0.0,,,,,,,,Trouble Cognitfs,0-65
+107,Masculin,Plainte cognitive,Trouble Cognitfs,52.0,,,Oui,3,1.0,0,Oui,,,Oui,Oui,3.0,Trouble Cognitfs,0-65
+108,Masculin,,,,,,,,,,,,,,,,,
+109,Masculin,,,,,,,,,,,,,,,,,
