@@ -42,7 +42,4 @@ dbt test
 
 Nécessite un profiles.yml qui pointe vers DuckDB.
 
-## Auteur
 
-Jordan Duplain, Data Analyst en reconversion (Power BI, Power Automate, SQL, Python).
-LinkedIn : https://www.linkedin.com/in/jordan-duplain/
